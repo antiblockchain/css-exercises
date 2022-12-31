@@ -1,0 +1,21 @@
+.odd {
+    background-color: pink;
+    font-family: sans-serif;
+    font-family: DejaVu Sans, sans-serif;
+    font-family: Verdana, sans-serif;
+
+}
+#idOne {
+    color: blue;
+    font-size: 36px;
+
+}
+.three {
+    font-size: 24px;
+}
+#idTwo {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
